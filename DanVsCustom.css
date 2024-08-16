@@ -9,3 +9,13 @@
     font-family: 'Geist Mono' !important;
     opacity: .3;
 }
+.monaco-editor .scroll-decoration {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, .75) !important;
+    top: -6px !important;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+    display: none !important;
+}
+.part.sidebar {
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, .25);
+}
