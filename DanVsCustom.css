@@ -1,0 +1,11 @@
+.mtk3 {
+    font-family: 'Monaspace Radon', monospace !important;
+    color: #008c7d !important;
+}
+.line-numbers {
+    position: relative !important;
+    width: 35px !important;
+    font-size: 16px !important;
+    font-family: 'Geist Mono' !important;
+    opacity: .3;
+}
